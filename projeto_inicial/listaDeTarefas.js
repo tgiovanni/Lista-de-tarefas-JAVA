@@ -14,7 +14,7 @@
 
     tarefa.innerHTML = conteudo;
     tarefa.appendChild(BotaoConclui());
-    tarefa.appendChild(BotaoDeleta());z
+    tarefa.appendChild(BotaoDeleta());
 
     input.value = " ";
 
